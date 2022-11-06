@@ -2,5 +2,5 @@
 Console.WriteLine("Hi");
 Console.WriteLine("I'm Yuriy");
 Console.WriteLine("And I'm take part in");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Sana Commerce Software");
+Console.WriteLine("Development Bootcamp");
